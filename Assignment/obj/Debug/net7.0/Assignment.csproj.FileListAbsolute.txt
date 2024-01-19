@@ -1,0 +1,17 @@
+/home/isaac238/University/Development/SystemsProgramming_Assignment/Assignment/bin/Debug/net7.0/Assignment
+/home/isaac238/University/Development/SystemsProgramming_Assignment/Assignment/bin/Debug/net7.0/Assignment.deps.json
+/home/isaac238/University/Development/SystemsProgramming_Assignment/Assignment/bin/Debug/net7.0/Assignment.runtimeconfig.json
+/home/isaac238/University/Development/SystemsProgramming_Assignment/Assignment/bin/Debug/net7.0/Assignment.dll
+/home/isaac238/University/Development/SystemsProgramming_Assignment/Assignment/bin/Debug/net7.0/Assignment.pdb
+/home/isaac238/University/Development/SystemsProgramming_Assignment/Assignment/obj/Debug/net7.0/Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaac238/University/Development/SystemsProgramming_Assignment/Assignment/obj/Debug/net7.0/Assignment.AssemblyInfoInputs.cache
+/home/isaac238/University/Development/SystemsProgramming_Assignment/Assignment/obj/Debug/net7.0/Assignment.AssemblyInfo.cs
+/home/isaac238/University/Development/SystemsProgramming_Assignment/Assignment/obj/Debug/net7.0/Assignment.csproj.CoreCompileInputs.cache
+/home/isaac238/University/Development/SystemsProgramming_Assignment/Assignment/obj/Debug/net7.0/Assignment.dll
+/home/isaac238/University/Development/SystemsProgramming_Assignment/Assignment/obj/Debug/net7.0/refint/Assignment.dll
+/home/isaac238/University/Development/SystemsProgramming_Assignment/Assignment/obj/Debug/net7.0/Assignment.pdb
+/home/isaac238/University/Development/SystemsProgramming_Assignment/Assignment/obj/Debug/net7.0/Assignment.genruntimeconfig.cache
+/home/isaac238/University/Development/SystemsProgramming_Assignment/Assignment/obj/Debug/net7.0/ref/Assignment.dll
+/home/isaac238/University/Development/SystemsProgramming_Assignment/Assignment/bin/Debug/net7.0/Spectre.Console.dll
+/home/isaac238/University/Development/SystemsProgramming_Assignment/Assignment/obj/Debug/net7.0/Assignment.csproj.AssemblyReference.cache
+/home/isaac238/University/Development/SystemsProgramming_Assignment/Assignment/obj/Debug/net7.0/Assignment.csproj.CopyComplete

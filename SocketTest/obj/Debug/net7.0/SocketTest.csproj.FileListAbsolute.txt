@@ -1,0 +1,17 @@
+/home/isaac238/University/Development/SystemsProgramming_Assignment/SocketTest/bin/Debug/net7.0/SocketTest
+/home/isaac238/University/Development/SystemsProgramming_Assignment/SocketTest/bin/Debug/net7.0/SocketTest.deps.json
+/home/isaac238/University/Development/SystemsProgramming_Assignment/SocketTest/bin/Debug/net7.0/SocketTest.runtimeconfig.json
+/home/isaac238/University/Development/SystemsProgramming_Assignment/SocketTest/bin/Debug/net7.0/SocketTest.dll
+/home/isaac238/University/Development/SystemsProgramming_Assignment/SocketTest/bin/Debug/net7.0/SocketTest.pdb
+/home/isaac238/University/Development/SystemsProgramming_Assignment/SocketTest/bin/Debug/net7.0/Spectre.Console.dll
+/home/isaac238/University/Development/SystemsProgramming_Assignment/SocketTest/obj/Debug/net7.0/SocketTest.csproj.AssemblyReference.cache
+/home/isaac238/University/Development/SystemsProgramming_Assignment/SocketTest/obj/Debug/net7.0/SocketTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaac238/University/Development/SystemsProgramming_Assignment/SocketTest/obj/Debug/net7.0/SocketTest.AssemblyInfoInputs.cache
+/home/isaac238/University/Development/SystemsProgramming_Assignment/SocketTest/obj/Debug/net7.0/SocketTest.AssemblyInfo.cs
+/home/isaac238/University/Development/SystemsProgramming_Assignment/SocketTest/obj/Debug/net7.0/SocketTest.csproj.CoreCompileInputs.cache
+/home/isaac238/University/Development/SystemsProgramming_Assignment/SocketTest/obj/Debug/net7.0/SocketTest.csproj.CopyComplete
+/home/isaac238/University/Development/SystemsProgramming_Assignment/SocketTest/obj/Debug/net7.0/SocketTest.dll
+/home/isaac238/University/Development/SystemsProgramming_Assignment/SocketTest/obj/Debug/net7.0/refint/SocketTest.dll
+/home/isaac238/University/Development/SystemsProgramming_Assignment/SocketTest/obj/Debug/net7.0/SocketTest.pdb
+/home/isaac238/University/Development/SystemsProgramming_Assignment/SocketTest/obj/Debug/net7.0/SocketTest.genruntimeconfig.cache
+/home/isaac238/University/Development/SystemsProgramming_Assignment/SocketTest/obj/Debug/net7.0/ref/SocketTest.dll

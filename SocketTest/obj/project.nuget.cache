@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4/7xD4fIf418BfEskYs4zF+ag9qnut9epdiC38qFf9OmdYFS0MaZZmHeJaIDirjpmSgVtUiKLHF3/KE9YaHgyQ==",
+  "success": true,
+  "projectFilePath": "/home/isaac238/University/Development/SystemsProgramming_Assignment/SocketTest/SocketTest.csproj",
+  "expectedPackageFiles": [
+    "/home/isaac238/.nuget/packages/spectre.console/0.47.0/spectre.console.0.47.0.nupkg.sha512",
+    "/home/isaac238/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}

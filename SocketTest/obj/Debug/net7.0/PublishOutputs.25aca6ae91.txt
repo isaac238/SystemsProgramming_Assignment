@@ -1,0 +1,6 @@
+/home/isaac238/University/Development/SystemsProgramming_Assignment/SocketTest/bin/Debug/net7.0/publish/SocketTest
+/home/isaac238/University/Development/SystemsProgramming_Assignment/SocketTest/bin/Debug/net7.0/publish/SocketTest.dll
+/home/isaac238/University/Development/SystemsProgramming_Assignment/SocketTest/bin/Debug/net7.0/publish/SocketTest.deps.json
+/home/isaac238/University/Development/SystemsProgramming_Assignment/SocketTest/bin/Debug/net7.0/publish/SocketTest.runtimeconfig.json
+/home/isaac238/University/Development/SystemsProgramming_Assignment/SocketTest/bin/Debug/net7.0/publish/SocketTest.pdb
+/home/isaac238/University/Development/SystemsProgramming_Assignment/SocketTest/bin/Debug/net7.0/publish/Spectre.Console.dll

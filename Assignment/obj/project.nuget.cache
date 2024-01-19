@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fz50L3pjFzgLmXaQNDEG9A3w2Mp9TZMnlVA43jWjPH1LVyVCrvtE69QYPn1MF5qP4im6Dx+6d+GRT0q2cnONEA==",
+  "success": true,
+  "projectFilePath": "/home/isaac238/University/Development/SystemsProgramming_Assignment/Assignment/Assignment.csproj",
+  "expectedPackageFiles": [
+    "/home/isaac238/.nuget/packages/spectre.console/0.48.0/spectre.console.0.48.0.nupkg.sha512",
+    "/home/isaac238/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}

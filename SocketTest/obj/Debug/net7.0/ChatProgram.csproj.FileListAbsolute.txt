@@ -1,0 +1,17 @@
+/home/isaac238/University/Development/SystemsProgramming_Assignment/ChatProgram/bin/Debug/net7.0/ChatProgram
+/home/isaac238/University/Development/SystemsProgramming_Assignment/ChatProgram/bin/Debug/net7.0/ChatProgram.deps.json
+/home/isaac238/University/Development/SystemsProgramming_Assignment/ChatProgram/bin/Debug/net7.0/ChatProgram.runtimeconfig.json
+/home/isaac238/University/Development/SystemsProgramming_Assignment/ChatProgram/bin/Debug/net7.0/ChatProgram.dll
+/home/isaac238/University/Development/SystemsProgramming_Assignment/ChatProgram/bin/Debug/net7.0/ChatProgram.pdb
+/home/isaac238/University/Development/SystemsProgramming_Assignment/ChatProgram/bin/Debug/net7.0/Spectre.Console.dll
+/home/isaac238/University/Development/SystemsProgramming_Assignment/ChatProgram/obj/Debug/net7.0/ChatProgram.csproj.AssemblyReference.cache
+/home/isaac238/University/Development/SystemsProgramming_Assignment/ChatProgram/obj/Debug/net7.0/ChatProgram.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaac238/University/Development/SystemsProgramming_Assignment/ChatProgram/obj/Debug/net7.0/ChatProgram.AssemblyInfoInputs.cache
+/home/isaac238/University/Development/SystemsProgramming_Assignment/ChatProgram/obj/Debug/net7.0/ChatProgram.AssemblyInfo.cs
+/home/isaac238/University/Development/SystemsProgramming_Assignment/ChatProgram/obj/Debug/net7.0/ChatProgram.csproj.CoreCompileInputs.cache
+/home/isaac238/University/Development/SystemsProgramming_Assignment/ChatProgram/obj/Debug/net7.0/ChatProgram.csproj.CopyComplete
+/home/isaac238/University/Development/SystemsProgramming_Assignment/ChatProgram/obj/Debug/net7.0/ChatProgram.dll
+/home/isaac238/University/Development/SystemsProgramming_Assignment/ChatProgram/obj/Debug/net7.0/refint/ChatProgram.dll
+/home/isaac238/University/Development/SystemsProgramming_Assignment/ChatProgram/obj/Debug/net7.0/ChatProgram.pdb
+/home/isaac238/University/Development/SystemsProgramming_Assignment/ChatProgram/obj/Debug/net7.0/ChatProgram.genruntimeconfig.cache
+/home/isaac238/University/Development/SystemsProgramming_Assignment/ChatProgram/obj/Debug/net7.0/ref/ChatProgram.dll
